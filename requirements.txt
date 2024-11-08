@@ -5,3 +5,4 @@ Pillow==9.5.0
 scipy
 scikit-image==0.20.0
 streamlit==1.23.1
+opencv-python-headless
