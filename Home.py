@@ -7,8 +7,8 @@ st.set_page_config(
 )
 
 def main():
-    st.caption("\n\nAngeline Dwi Sanjaya - 5023201017")
-    st.header("Final Project: Image Processing")
+    st.caption("\n\n | Angeline Dwi Sanjaya")
+    st.header("Medical Imaging Project: Image Processing")
 
     with st.container():
         col1, col2, col3 = st.columns(3)
