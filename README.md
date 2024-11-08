@@ -3,7 +3,21 @@
 This website features medical image processing tools, including image enhancement, filtering, edge detection, and masking, as well as performance evaluation metrics. Spesifically, 
 each section contains:
 
+#### Screenshot of Application
+<p align="center">
+  <img src="./assets/overview-1.png" alt="Image Overview-1" width="51%" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="./assets/overview-2.png" alt="Image Overview-1" width="42%" />
+</p>
+
+<p align="center">
+  <img src="./assets/overview-4.png" alt="Image Overview-3" width="51%" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="./assets/overview-3.png" alt="Image Overview-4" width="42%" align="top" />
+</p>
+
 ### Features:
+
 1. Image Enhancement
    - Histogram Equalization: Adjusts image contrast by spreading out the intensity values, making features more distinguishable.
    - Adaptive Histogram Equalization (AHE): A variant of histogram equalization that improves local contrast and is useful for images with varying lighting conditions.
@@ -35,7 +49,7 @@ each section contains:
 
 
 ### Links
-- Live Site URL: []()
+- Live Site URL: [https://medical-image-processing.streamlit.app](https://medical-image-processing.streamlit.app/)
 
 ## Other Projects
 - Portfolio Website - [angeline-portfolio.netlify.app](https://angeline-portfolio.netlify.app)
