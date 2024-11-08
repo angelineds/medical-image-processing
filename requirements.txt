@@ -2,6 +2,6 @@ numpy==1.24.0
 opencv-python==4.7.0.68
 pandas==2.0.2
 Pillow==9.5.0  
-scipy==1.14.1
+scipy
 scikit-image==0.20.0
 streamlit==1.23.1
