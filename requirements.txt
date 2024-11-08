@@ -1,4 +1,7 @@
-numpy==1.23.5
+python3-distutils
+python==3.12
+
+numpy==1.24.0
 opencv-python==4.7.0.68
 pandas==2.0.2
 Pillow==9.5.0  
