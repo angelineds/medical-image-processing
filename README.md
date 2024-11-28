@@ -1,7 +1,6 @@
 # Medical Image Processing Tools
 
-This website features medical image processing tools, including image enhancement, filtering, edge detection, and masking, as well as performance evaluation metrics. Spesifically, 
-each section contains:
+This website features medical image processing tools, including image enhancement, filtering, edge detection, and masking, as well as performance evaluation metrics. 
 
 #### Screenshot of Application
 <p align="center">
